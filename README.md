@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/vanbastenrx%22%3E">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanbastenrx&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanbastenrx&layout=compact&langs_count=16&theme=light/%3E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanbastenrx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/van-basten-albuquerque-92a5b9214/)](https://www.linkedin.com/in/van-basten-albuquerque-92a5b9214/)
