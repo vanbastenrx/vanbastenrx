@@ -1,7 +1,7 @@
 ## Oi, eu sou o Van Basten ✌🏻
-##### Sou do Rio de Janeiro, tenho 26 anos e sou estudante de programação.
-##### Atualmente cursando JavaScript e ReactJS. Quero aprender cada vez mais e me tornar um desenvolvedor capaz de fazer grandes aplicações.
-##### Amo jogar e conhecer tecnologias. Tenho bastante curiosidade em aprender como as coisas funcionam.
+#### Sou do Rio de Janeiro, tenho 26 anos e sou estudante de programação.
+#### Atualmente cursando JavaScript e ReactJS. Quero aprender cada vez mais e me tornar um desenvolvedor capaz de fazer grandes aplicações.
+#### Amo jogar e conhecer tecnologias. Tenho bastante curiosidade em aprender como as coisas funcionam.
 
 <br>
 <br>
