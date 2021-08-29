@@ -4,7 +4,6 @@
 #### Amo jogar e conhecer tecnologias. Tenho bastante curiosidade em aprender como as coisas funcionam.
 
 <br>
-<br>
 
 <div>
   <a href="https://github.com/vanbastenrx%22%3E">
