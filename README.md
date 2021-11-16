@@ -1,8 +1,8 @@
 # Oi, eu sou o Van Basten ✌🏻
 #### Sou do Rio de Janeiro, tenho 26 anos e sou estudante de programação.
-#### Analista e desenvolvedor de sistemas em formação pela Estácio.
-#### Atualmente cursando JavaScript e ReactJS na Udemy. Quero aprender cada vez mais e me tornar um desenvolvedor capaz de fazer grandes aplicações.
-#### Amo jogar e conhecer tecnologias. Tenho bastante curiosidade em aprender como as coisas funcionam.
+#### Analista e desenvolvedor de sistemas em formação.
+#### Atualmente cursando JavaScript e ReactJS na Udemy.
+
 
 <br>
 
