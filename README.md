@@ -1,9 +1,6 @@
 # Oi, eu sou o Van Basten
-#### Sou do Rio de Janeiro, tenho 27 anos e sou estudante de programação.
-#### Analista e desenvolvedor de sistemas em formação.
-#### Atualmente cursando JavaScript e ReactJS na Udemy.
-
-
+#### Sou do Rio de Janeiro, tenho 27 anos e sou Desenvolvedor Front-End.
+ 
 <br>
 
 <div>
